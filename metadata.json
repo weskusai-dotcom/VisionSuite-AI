@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Vision Suite",
+  "description": "Professional bulk image processing tool featuring AI background removal, automated tagging, and detailed captioning using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
